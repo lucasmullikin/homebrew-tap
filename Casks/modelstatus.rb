@@ -1,5 +1,5 @@
 cask "modelstatus" do
-  version "0.1.0-beta"
+  version "0.1.1-beta"
   sha256 "2d04aa2fa541f6826d528ec9aeb0ce56f80e588d2fc10295b3a10aceb88c5fb8"
 
   url "https://github.com/lucasmullikin/ModelStatus/releases/download/v#{version}/ModelStatus-v#{version}.zip"
